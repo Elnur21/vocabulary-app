@@ -231,7 +231,7 @@ packages:
       sha256: f9120539a34725ebaa4523bbb6f060f256f7d30807437fa4480b08bef7d14e16
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.0+1"
+    version: "2.2.8+4"
   sqflite_common:
     dependency: transitive
     description:
@@ -239,7 +239,7 @@ packages:
       sha256: "0c7785befac2b5c40fc66b485be2f35396246a6fd6ccb89bb22614ddfb3d54a7"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.3.0"
+    version: "2.4.5+1"
   stack_trace:
     dependency: transitive
     description:
