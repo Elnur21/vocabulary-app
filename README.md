@@ -1,6 +1,6 @@
 # Vocabulary
 
-A new Flutter project.
+### Hybrid app for vocabulary.
 
 ## Getting Started
 
